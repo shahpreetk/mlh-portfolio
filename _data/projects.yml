@@ -1,20 +1,24 @@
-- title: Social Good!
+- title: Volunteery
+  event: MLH Fellowship Explorer Sprint 6
+  date: Fall 2020 - Batch 1
+
+- title: gitg0
   event: MLH Fellowship Explorer Sprint 5
   date: Fall 2020 - Batch 1
 
-- title: Developer Tools!
+- title: Clarity
   event: MLH Fellowship Explorer Sprint 4
   date: Fall 2020 - Batch 1
 
-- title: Machine Learning Project
+- title: Knight In The Night
   event: MLH Fellowship Explorer Sprint 3
   date: Fall 2020 - Batch 1
 
-- title: Fun Game
+- title: Mentored
   event: MLH Fellowship Explorer Sprint 2
   date: Fall 2020 - Batch 1
 
-- title: Flash Card Generator
+- title: MealGuide
   event: MLH Fellowship Explorer Sprint 1
   date: Fall 2020 - Batch 1
-  page-name: sprint1
+#   page-name: sprint1
